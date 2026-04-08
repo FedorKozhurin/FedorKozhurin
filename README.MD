@@ -74,8 +74,6 @@
   Статистика
 </h2>
 
-![stat](https://github-readme-stats.vercel.app/api?username=FedorKozhurin&show_icons=true&theme=radical&hide_border=true&text_bold=false)
-![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=FedorKozhurin&layout=compact&theme=radical&hide_border=true&text_bold=false&langs_count=8)
 ![profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FedorKozhurin&theme=radical)
 ![lang_rep](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FedorKozhurin&theme=radical)
 ![com](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FedorKozhurin&theme=radical&utcOffset=5)
