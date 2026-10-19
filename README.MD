@@ -1,4 +1,4 @@
-![Banner](Banner3.4.jpg)
+![Banner](catIT.jpg)
 
 ---
 
