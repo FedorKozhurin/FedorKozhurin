@@ -1,79 +1,112 @@
-![Banner](catIT.jpg)
+<p align="center">
+  <img src="catIT.jpg" alt="Banner" />
+</p>
+
+<p align="center">
+  <em>Fullstack Developer · Python (FastAPI) / TypeScript (React)</em>
+</p>
+
+<p align="center">
+  <a href="https://synapse.tg" target="_blank">
+    <img src="https://img.shields.io/badge/МОЙ_ПРОЕКТ-SYNAPSE-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Мой проект Synapse" />
+  </a>
+</p>
 
 ---
 
-<h2>О себе</h2>
+<h3 align="left">
+  <img src="https://api.iconify.design/lucide/rocket.svg?color=%23FFFFFF&height=20" width="20" height="20" alt="" aria-hidden="true" />
+  &nbsp;ОБО МНЕ
+</h3>
 
-- Создаю серверную часть веб-приложений и ботов с фокусом на **чистую архитектуру** и **надежность данных**.
-- Специализируюсь на разработке REST API и интеграциях, выстраивая предсказуемую и масштабируемую логику.
-- Веду разработку многофункционального Telegram-бота в связке с полноценной CRM системой для молодежной организации.
-- Финалист олимпиады по промышленной разработке PROD (кейс «Проектирование архитектуры и реализация API-сервиса на Python»).
-- Портфолио - recursivethinker.tech
+**Fullstack-разработчик**, специализируюсь на создании масштабируемых веб-приложений, асинхронных бэкендов и интеграции с Telegram API.
+
+- Глубоко разбираюсь в Python (FastAPI) и TypeScript (React) экосистемах
+- Люблю чистую архитектуру и внимание к деталям
+- Постоянно улучшаю надежность и производительность
 
 ---
 
-<h2>
-  <img src="https://cdn.simpleicons.org/stackblitz/ffffff" width="18" style="vertical-align: middle; margin-bottom: 3px;" /> 
-  Технологический стек
-</h2>
+<h3 align="left">
+  <img src="https://api.iconify.design/lucide/layers.svg?color=%23FFFFFF&height=20" width="20" height="20" alt="" aria-hidden="true" />
+  &nbsp;СТЕК
+</h3>
 
 <div align="center">
 
-### Backend Core
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=json&logoColor=white)
+<h4>
+  <img src="https://api.iconify.design/lucide/server.svg?color=%23FFFFFF&height=18" width="18" height="18" alt="" aria-hidden="true" />
+  &nbsp;BACKEND
+</h4>
 
-### Базы данных и ORM
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python_3.11-000000?style=for-the-badge&logo=python&logoColor=FFFFFF" alt="Python 3.11" />
+  <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=FFFFFF" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/SQLAlchemy_2.0-000000?style=for-the-badge&logo=sqlalchemy&logoColor=FFFFFF" alt="SQLAlchemy 2.0" />
+  <img src="https://img.shields.io/badge/Pydantic_v2-000000?style=for-the-badge&logo=pydantic&logoColor=FFFFFF" alt="Pydantic v2" />
+  <img src="https://img.shields.io/badge/Telegram_Bot_API-000000?style=for-the-badge&logo=telegram&logoColor=FFFFFF" alt="Telegram Bot API" />
+</p>
 
-### Инфраструктура и инструменты
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![JWT Auth](https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+<h4>
+  <img src="https://api.iconify.design/lucide/layout.svg?color=%23FFFFFF&height=18" width="18" height="18" alt="" aria-hidden="true" />
+  &nbsp;FRONTEND
+</h4>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FFFFFF" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React_19-000000?style=for-the-badge&logo=react&logoColor=FFFFFF" alt="React 19" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vite_6-000000?style=for-the-badge&logo=vite&logoColor=FFFFFF" alt="Vite 6" />
+</p>
+
+<h4>
+  <img src="https://api.iconify.design/lucide/database.svg?color=%23FFFFFF&height=18" width="18" height="18" alt="" aria-hidden="true" />
+  &nbsp;БАЗЫ ДАННЫХ
+</h4>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL_16-000000?style=for-the-badge&logo=postgresql&logoColor=FFFFFF" alt="PostgreSQL 16" />
+  <img src="https://img.shields.io/badge/Asyncpg-000000?style=for-the-badge&logo=postgresql&logoColor=FFFFFF" alt="Asyncpg" />
+  <img src="https://img.shields.io/badge/Alembic-000000?style=for-the-badge&logo=python&logoColor=FFFFFF" alt="Alembic" />
+</p>
+
+<h4>
+  <img src="https://api.iconify.design/lucide/radio.svg?color=%23FFFFFF&height=18" width="18" height="18" alt="" aria-hidden="true" />
+  &nbsp;DATA FETCHING И ТЕСТИРОВАНИЕ
+</h4>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Query-000000?style=for-the-badge&logo=reactquery&logoColor=FFFFFF" alt="React Query" />
+  <img src="https://img.shields.io/badge/Axios-000000?style=for-the-badge&logo=axios&logoColor=FFFFFF" alt="Axios" />
+  <img src="https://img.shields.io/badge/Pytest-000000?style=for-the-badge&logo=pytest&logoColor=FFFFFF" alt="Pytest" />
+  <img src="https://img.shields.io/badge/Jest-000000?style=for-the-badge&logo=jest&logoColor=FFFFFF" alt="Jest" />
+</p>
+
+<h4>
+  <img src="https://api.iconify.design/lucide/wrench.svg?color=%23FFFFFF&height=18" width="18" height="18" alt="" aria-hidden="true" />
+  &nbsp;ИНСТРУМЕНТЫ И ИНФРАСТРУКТУРА
+</h4>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=FFFFFF" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FFFFFF" alt="Git" />
+</p>
 
 </div>
 
 ---
 
-<h2>
-  <img src="https://cdn.simpleicons.org/starship/ffffff" width="18" style="vertical-align: middle; margin-bottom: 3px;" /> 
-  Ключевые компетенции
-</h2>
+<h3 align="left">
+  <img src="https://api.iconify.design/lucide/send.svg?color=%23FFFFFF&height=20" width="20" height="20" alt="" aria-hidden="true" />
+  &nbsp;ДАВАЙ ЗНАКОМИТЬСЯ
+</h3>
 
-<h3>Архитектура</h3>
-
-- Проектирование REST API и webhook-интеграций
-- Реляционное моделирование БД (нормализация, индексы, связи)
-- Проектирование структуры сервисов и контуров ответственности
-- Безопасная миграция схем баз данных без потери консистентности
-
-<h3>Разработка</h3>
-
-- Разработка backend на Python (FastAPI / асинхронность)
-- Интеграция и маршрутизация Telegram Bot API (aiogram / Telebot)
-- Работа с SQLAlchemy: ORM, raw SQL, управление транзакциями
-- Контейнеризация локального окружения с помощью Docker
-- Аутентификация и авторизация (JWT, ролевой доступ)
-
-<h3>Процессы</h3>
-
-- Управление версиями через Git и GitHub
-- Локальная отладка и тестирование интеграций
-- Итеративная разработка от MVP до масштабируемого решения
-
----
-
-<h2>
-  <img src="https://cdn.simpleicons.org/grafana/ffffff" width="18" style="vertical-align: middle; margin-bottom: 3px;" /> 
-  Статистика
-</h2>
-
-![profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FedorKozhurin&theme=radical)
-![lang_rep](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FedorKozhurin&theme=radical)
-![com](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FedorKozhurin&theme=radical&utcOffset=5)
+<p align="center">
+  <a href="https://t.me/recursivethinker" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=FFFFFF" alt="Telegram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:kozhurinf@icloud.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email"/>
+  </a>
+</p>
